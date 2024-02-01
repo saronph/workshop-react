@@ -1,0 +1,17 @@
+.jsx-container {
+  background-color: #cccccc;
+  border: 1px solid red;
+
+  margin-bottom: 4rem;
+}
+
+.title {
+  color: red;
+  text-decoration: underline;
+  font-size: 1rem;
+}
+
+.users-container {
+  display: flex;
+  flex-direction: column;
+}
